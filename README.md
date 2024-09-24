@@ -2,7 +2,7 @@
 
 ---
 
-# Shape Detectaah
+# Shape Detector
 
 *Shape Detector* is an Android application built with Kotlin and Jetpack Compose for the frontend. It utilizes OpenCV for real-time object detection, specifically for detecting and recognizing various shapes. The project demonstrates the power of combining native Android development tools with computer vision technologies.
 
@@ -55,9 +55,7 @@ This project follows a modular architecture with the following components:
 
 ## Future Enhancements
 - Add AR Feature-set to project the shape into 3D space and interact with it.
-- Add Apple Vision Pro Support.
 - Improve detection accuracy for complex shapes
 - Add support for more shape types (e.g., triangles, polygons)
 - Integrate additional features such as color detection and edge detection
 
-## Made with Love by : @rahul028 [Rahul R]
